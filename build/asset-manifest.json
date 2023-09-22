@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cbf374ee.css",
+    "main.js": "/static/js/main.4ece0922.js",
+    "static/js/787.d3befce1.chunk.js": "/static/js/787.d3befce1.chunk.js",
+    "static/media/dandelion-445228_1280.jpg": "/static/media/dandelion-445228_1280.7a5a2ee97b9c04150482.jpg",
+    "static/media/smart2.jpg": "/static/media/smart2.ed3537d192e449b1ced3.jpg",
+    "static/media/card3.jpg": "/static/media/card3.dd3514c59d343560145b.jpg",
+    "static/media/smart3.jpg": "/static/media/smart3.1bf5c746f20d2805440b.jpg",
+    "static/media/smart1.jpg": "/static/media/smart1.40e80ebac3330081bce3.jpg",
+    "static/media/card4.jpg": "/static/media/card4.3b272514a1ea2fe66b4c.jpg",
+    "static/media/smart.jpg": "/static/media/smart.45d286e250f6491b6ca7.jpg",
+    "static/media/card2.jpg": "/static/media/card2.2613ad10bbd11260da58.jpg",
+    "static/media/card1.jpg": "/static/media/card1.0d055f4226d632901507.jpg",
+    "index.html": "/index.html",
+    "main.cbf374ee.css.map": "/static/css/main.cbf374ee.css.map",
+    "main.4ece0922.js.map": "/static/js/main.4ece0922.js.map",
+    "787.d3befce1.chunk.js.map": "/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbf374ee.css",
+    "static/js/main.4ece0922.js"
+  ]
+}
